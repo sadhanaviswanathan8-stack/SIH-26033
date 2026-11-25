@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 25.11.2026
+## Reference Number:26006163
+## Name: sadhanaviswanathan
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,10 +26,11 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Innovation and Uniqueness:
+AI-based demand forecasting.
+Direct communication between farmers and buyers.
+Smart logistics and route optimization.
+Affordable and transparent agricultural trading.
 
 ## Technical Approach
 Remove These Lines
